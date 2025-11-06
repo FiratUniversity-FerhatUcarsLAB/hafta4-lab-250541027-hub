@@ -3,6 +3,7 @@
  * Ogrenci No: 250541027
  * Tarih: 02.11.2025
  * Aciklama: GOREV 3: MAAS HESAPLAMA SISTEMI
+ *Bu program çalışandan brüt maaş , mesai saati ve ücreti isteyerek gelirler ve kesintilerle birlikte net maaşı hesaplar 
  */
 
 import java.util.Scanner;
