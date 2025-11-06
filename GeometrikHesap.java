@@ -3,6 +3,8 @@
  * Ogrenci No: 250541027
  * Tarih: 26.10.2025
  * Aciklama: GOREV 2: Geometrik Hesaplayıcı
+ * bu program kullanıcıdan yarıçap bilgisi alarak daire ve
+ *küre için gerekli hesaplamaları yapıp düzenli bir şekilde ekrana yazdırır.
  */
 import java.util.Scanner;
     public class GeometrikHesaplayici {
